@@ -45,7 +45,7 @@
         android:layout_marginTop="24dp"
         android:background="@android:color/transparent"
         android:gravity="top"
-        android:hint=" Email "
+        android:hint="@string/email"
         android:inputType="textEmailAddress"
         android:textSize="24sp"
         android:autofillHints="" />
